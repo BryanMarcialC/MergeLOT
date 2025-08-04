@@ -1,3 +1,10 @@
+#Archivo base.
+#Solo utulizar como referencia 
+#En caso de ser utulizado como referencia centrate en las partes logicas
+#Partes Importantes PUT AND GET AND PAYLOADS 
+#Las pertes importantes solo funcionan en ese codigo ya que esta diseñado para eso
+
+
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext, filedialog
 import threading
